@@ -4,21 +4,22 @@
 
 I am a passionate software developer with a strong focus on web development, open-source contributions, and continuous learning of emerging technologies. I thrive on tackling challenging projects and collaborating to create innovative, impactful solutions.
 
-As a Full Stack Developer with over 3 years of experience, I specialize in designing and building dynamic, user-friendly web applications. My expertise lies in crafting high-performance, scalable solutions while ensuring seamless user experiences.
+As a Full Stack Developer with over 4 years of experience, I specialize in designing and building dynamic, user-friendly web applications. My expertise lies in crafting high-performance, scalable solutions while ensuring seamless user experiences.
 
 - 🌍 I'm currently based in pakistan
-- 🛠️ I’m currently working on Nice2stay as a software engineer
-- 📫 How to reach me: muhammadarqam920@gmail.com
+- 🛠️ I’m currently working on Nice2stay as a senior software engineer
+- 📫 How to reach me: muhammadarqam920@gmail.com , +923006161806
 
 ## 🔧 Technologies & Tools
 
 Here are some of the languages, frameworks, and tools I work with:
 
 Proficiencies:
-- **Frontend:** React.js, Vue.js, Nuxt.js
-- **Backend:** Node.js, Express.js
+- **Frontend:** React.js, Vue.js, Nuxt.js, Next.js, Angular, React, Redux
+- **Backend:** Node.js, Express.js, Ruby, Rails, Nest.js, JQuery
 - **Databases:** MongoDB, MySQL
-- **CSS Frameworks:** Tailwind CSS, Bootstrap (4 & 5), SCSS/SASS
+- **CSS Frameworks:** Tailwind CSS, Bootstrap (4 & 5), SCSS/SASS, Material UI, AntDesign, mantine.ui
+- **Cloud:** AWS (EC2 , S3 , Lambda , RDS ), Microservices, Docker
 
 ## 🌱 What I'm Learning
 
